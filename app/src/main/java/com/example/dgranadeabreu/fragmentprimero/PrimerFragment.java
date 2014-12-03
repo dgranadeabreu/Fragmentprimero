@@ -31,6 +31,7 @@ public class PrimerFragment extends Activity {
             PlaceholderFragment miFragmento=new PlaceholderFragment();
             miTransaccion.add(R.id.container,miFragmento);
             miTransaccion.commit();
+            //comentario
         }
     }
 
